@@ -1,4 +1,4 @@
-class Launchd-plist-maker < Formula
+class LaunchdPlistMaker < Formula
     desc "Ultimate launchd task installer for macOS"
     homepage "https://github.com/v1r4m/homebrew-launchd-plist-maker"
     url "https://github.com/v1r4m/homebrew-launchd-plist-maker/archive/refs/tags/v1.0.0.tar.gz"
